@@ -20,3 +20,4 @@ title(r'Rectangular signal with editable frequency in Python: $x(t)$ ')
 xlabel(r't')
 ylabel(r'$x(t)$')
 grid()
+ 
